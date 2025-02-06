@@ -5,7 +5,7 @@ Welcome to my project! 🎉 This repository contains the configuration and setup
 ## 📖 About the Project
 I wrote an article detailing my first experience configuring NGINX to serve a static HTML page. You can read the full guide here:
 
-➡️ **[Read the article](#)** _(https://dev.to/starrinthecloud/how-i-configured-nginx-to-serve-my-custom-html-page-a-first-timers-guide-2aje)_
+➡️ **[Read the article](https://dev.to/starrinthecloud/how-i-configured-nginx-to-serve-my-custom-html-page-a-first-timers-guide-2aje)**
 
 This repository includes:
 - My **NGINX configuration file** (`nginx.conf`)
